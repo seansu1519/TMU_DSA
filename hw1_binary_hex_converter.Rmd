@@ -1,6 +1,8 @@
 ---
 title: "hw1"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 date: "2025-03-13"
 ---
 
